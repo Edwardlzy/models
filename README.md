@@ -7,3 +7,5 @@ The [official models](official) are a collection of example models that use Tens
 The [research models](research) are a large collection of models implemented in TensorFlow by researchers.
 
 The [tutorial models](tutorials) are models described in the [TensorFlow tutorials](https://www.tensorflow.org/tutorials/).
+
+I used this module to build a traffic light recognizer which can detect and recognize red and green signal of traffic lights.
